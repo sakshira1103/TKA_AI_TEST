@@ -1,0 +1,66 @@
+Section A — AI Companies & Latest Models
+1. OpenAI
+2. Anthropic
+3. Google
+4. Meta
+5. xAI
+6. France
+7. GPT-6 Astra
+8. GPT-6 Sol
+9. Claude Haiku 5.5
+10. Gemini 4 Argon
+Section B — Generative AI & LLM Concepts
+11. Large Language Model.
+12. AI that generates new content such as text, images, audio, video, and code.
+13. An instruction or input given to an AI model.
+14. An instruction that defines an AI model's role, behavior, and rules.
+15. When AI generates incorrect or fabricated information as if it were true.
+16. A small unit of text processed by an LLM.
+17. The amount of information an AI model can process in one interaction.
+18. Using a trained AI model to generate predictions or responses.
+19. Further training a pretrained model on specific data.
+20. AI that processes or generates multiple types of data.
+Section C — Agents, RAG & Modern AI Development
+21. An AI system that makes decisions and takes actions to achieve a goal.
+22. A chatbot answers questions, while an AI agent can plan and perform tasks.
+23. Retrieval-Augmented Generation.
+24. To retrieve external information and improve answer accuracy.
+25. A numerical representation of data in vector form.
+26. To store and search vector embeddings by similarity.
+27. To use external tools, APIs, and functions.
+28. Model Context Protocol.
+29. To authenticate access to an API.
+30. A sequence of AI-driven steps to complete a task.
+Section D — AI Image, Video, Audio & Famous Tools
+31. AI-generated images and artwork.
+32. AI video generation.
+33. GPT Image.
+34. Generating images from text descriptions.
+35. Generating videos from text descriptions.
+36. Text-to-Speech.
+37. Speech-to-Text.
+38. Extracting text from images and scanned documents.
+39. An AI model that understands images and language.
+40. Creating an artificial voice resembling a person's voice.
+Section E — Coding AI, Hardware & Practical Awareness
+41. AI-assisted coding and code completion.
+42. AI-powered software development.
+43. A tool that helps developers write, explain, and debug code.
+44. GPU (Graphics Processing Unit).
+45. Graphics Processing Unit.
+46. Neural Processing Unit.
+47. To store AI model weights, data, and intermediate computations.
+48. Running an AI model directly on your own computer or device.
+49. An AI model whose trained weights are publicly available.
+50. Training a smaller model to imitate a larger model.
+Section F — Latest AI Awareness & 2026 News
+51. GPT-6 model family.
+52. GPT-6 Astra OpenAI
+53. Claude Opus 5.5.  Claude Platform Docs
+54. Claude Haiku 5.5. Anthropic
+55. Gemini 4 Argon.
+56. GPT Image.
+57. GPT-Live.
+58. Anthropic.
+59. Prompt injection.
+60. To identify errors, misinformation, bias, and potentially harmful advice before making important decisions.
